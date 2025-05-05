@@ -1,0 +1,2 @@
+Dynamic_Symmetry_Strength,Dynamic_Field_Strength,Spread_Width,Num_Pucks,Bias_ON,Bias_Strength,Num_Lobes,Symmetry_Type,Symmetry_Strength,Dynamic_Lobes,Field_Force_Profile,Dynamic_Field,Field_Strength,Experiment_Notes
+0.0,0.7,0.2,10000,True,1.0,8,Rotational,0.6,False,Dynamic,True,0.0,Horizon_Behavior_Simulation: Strong central bias creates a no-escape region

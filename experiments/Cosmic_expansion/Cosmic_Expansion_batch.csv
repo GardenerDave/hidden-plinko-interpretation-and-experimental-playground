@@ -1,0 +1,3 @@
+Dynamic_Symmetry_Strength,Dynamic_Field_Strength,Spread_Width,Num_Pucks,Bias_ON,Bias_Strength,Num_Lobes,Symmetry_Type,Symmetry_Strength,Dynamic_Lobes,Field_Force_Profile,Dynamic_Field,Field_Strength,Experiment_Notes
+0.1,0.05,2.0,500,True,1.0,3,Rotational,0.4,False,Constant,True,0.1,CE-1: Simulate cosmic expansion by increasing spread dynamically
+0.1,0.05,2.0,500,True,1.5,3,Mirror,0.5,False,Dynamic,True,0.3,CE-2: Decrease field to simulate universal cooling

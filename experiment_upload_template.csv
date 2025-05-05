@@ -1,0 +1,4 @@
+Dynamic_Symmetry_Strength,Dynamic_Field_Strength,Spread_Width,Num_Pucks,Bias_ON,Bias_Strength,Num_Lobes,Symmetry_Type,Symmetry_Strength,Dynamic_Lobes,Field_Force_Profile,Dynamic_Field,Field_Strength,Experiment_Notes
+,,,,,,,,,,,,,Describe the purpose or intent of this experiment here.
+,,,,,,,,,,,,,For batch experiments repeat in the following rows.
+,,,,,,,,,,,,,See README.md for valid entry types.

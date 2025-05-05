@@ -1,0 +1,35 @@
+{
+  "title": "Hidden Plinko Interpretation: A Deterministic Substrate Model for Emergent Quantum Statistics",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "description": "This repository contains the data, code, and formal paper for the Hidden Plinko Interpretation (HPI), a deterministic computational framework for modeling quantum-like statistical behavior. It includes reproducible simulations, parameter sweeps, entropy analyses, and analog experiments such as ER=EPR, entropic gravity, and the holographic principle.",
+  "creators": [
+    {
+      "name": "Gardener Dave",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "keywords": [
+    "quantum interpretation",
+    "deterministic model",
+    "statistical mechanics",
+    "emergent behavior",
+    "Hidden Plinko",
+    "entropy",
+    "simulations"
+  ],
+  "license": "CC-BY-NC-4.0",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/GardenerDave/hidden-plinko"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "open-science"
+    }
+  ],
+  "version": "1.1.0"
+}

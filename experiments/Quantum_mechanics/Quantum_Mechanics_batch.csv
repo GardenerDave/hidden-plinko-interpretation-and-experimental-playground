@@ -1,0 +1,3 @@
+Dynamic_Symmetry_Strength,Dynamic_Field_Strength,Spread_Width,Num_Pucks,Bias_ON,Bias_Strength,Num_Lobes,Symmetry_Type,Symmetry_Strength,Dynamic_Lobes,Field_Force_Profile,Dynamic_Field,Field_Strength,Experiment_Notes
+0.1,0.05,2.0,500,True,3,8,Rotational,1.0,False,Constant,False,0.0,QM-1: Create wave-like interference with rotational symmetry
+0.1,0.05,2.0,500,True,2,4,Randomized,1.0,True,Dynamic,True,0.3,QM-2: Simulate decoherence with dynamic randomness

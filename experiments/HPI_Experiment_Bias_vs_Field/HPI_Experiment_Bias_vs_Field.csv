@@ -1,0 +1,4 @@
+Num_Pucks,Spread_Width,Bias_ON,Bias_Strength,Num_Lobes,Symmetry_Type,Symmetry_Strength,Dynamic_Lobes,Field_Strength,Dynamic_Field,Dynamic_Field_Strength,Dynamic_Symmetry_Strength,Experiment_Notes
+1000,2.0,True,5,6,Rotational,0.5,False,-0.5,False,0.0,0.0,Opposing field vs bias
+1000,2.0,True,5,6,Rotational,0.5,False,0.5,False,0.0,0.0,Aligned field with bias
+1000,2.0,True,5,6,Rotational,0.5,False,0.0,False,0.0,0.0,"Bias only, no field"

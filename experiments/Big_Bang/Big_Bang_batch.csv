@@ -1,0 +1,4 @@
+Num_Pucks,Spread_Width,Bias_ON,Bias_Strength,Num_Lobes,Symmetry_Type,Symmetry_Strength,Dynamic_Lobes,Field_Force_Profile,Dynamic_Field,Field_Strength,Experiment_Notes,Dynamic_Field_Strength,Dynamic_Symmetry_Strength
+500,2.0,True,5.0,3,Rotational,0.9,True,Dynamic,True,0.7,BB-1: Early inflation with strong bias and symmetry dynamics,0.05,0.1
+500,2.0,False,0.0,3,Rotational,0.9,True,Dynamic,True,0.7,BB-2: Control — inflation with no internal bias,0.05,0.1
+500,2.0,True,3.0,4,Elliptical,0.6,True,Dynamic,True,0.4,BB-3: Moderate bias and smoother geometry during expansion,0.05,0.1

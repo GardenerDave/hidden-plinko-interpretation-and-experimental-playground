@@ -1,0 +1,22 @@
+Num_Pucks,Spread_Width,Bias_ON,Bias_Strength,Num_Lobes,Symmetry_Type,Symmetry_Strength,Dynamic_Lobes,Field_Strength,Dynamic_Field,Dynamic_Field_Strength,Dynamic_Symmetry_Strength,Experiment_Notes
+1000,1.0,True,1.0,4,Rotational,0.0,True,1.0,True,1.0,1.0,HPI_drift_inversion_dynamic_lobe_test A=0.0
+1000,1.0,True,1.0,4,Rotational,0.1,True,1.0,True,1.0,1.0,HPI_drift_inversion_dynamic_lobe_test A=0.1
+1000,1.0,True,1.0,4,Rotational,0.2,True,1.0,True,1.0,1.0,HPI_drift_inversion_dynamic_lobe_test A=0.2
+1000,1.0,True,1.0,4,Rotational,0.3,True,1.0,True,1.0,1.0,HPI_drift_inversion_dynamic_lobe_test A=0.3
+1000,1.0,True,1.0,4,Rotational,0.4,True,1.0,True,1.0,1.0,HPI_drift_inversion_dynamic_lobe_test A=0.4
+1000,1.0,True,1.0,4,Rotational,0.5,True,1.0,True,1.0,1.0,HPI_drift_inversion_dynamic_lobe_test A=0.5
+1000,1.0,True,1.0,4,Rotational,0.6,True,1.0,True,1.0,1.0,HPI_drift_inversion_dynamic_lobe_test A=0.6
+1000,1.0,True,1.0,4,Rotational,0.7,True,1.0,True,1.0,1.0,HPI_drift_inversion_dynamic_lobe_test A=0.7
+1000,1.0,True,1.0,4,Rotational,0.8,True,1.0,True,1.0,1.0,HPI_drift_inversion_dynamic_lobe_test A=0.8
+1000,1.0,True,1.0,4,Rotational,0.9,True,1.0,True,1.0,1.0,HPI_drift_inversion_dynamic_lobe_test A=0.9
+1000,1.0,True,1.0,4,Rotational,1.0,True,1.0,True,1.0,1.0,HPI_drift_inversion_dynamic_lobe_test A=1.0
+1000,1.0,True,1.0,4,Rotational,1.1,True,1.0,True,1.0,1.0,HPI_drift_inversion_dynamic_lobe_test A=1.1
+1000,1.0,True,1.0,4,Rotational,1.2,True,1.0,True,1.0,1.0,HPI_drift_inversion_dynamic_lobe_test A=1.2
+1000,1.0,True,1.0,4,Rotational,1.3,True,1.0,True,1.0,1.0,HPI_drift_inversion_dynamic_lobe_test A=1.3
+1000,1.0,True,1.0,4,Rotational,1.4,True,1.0,True,1.0,1.0,HPI_drift_inversion_dynamic_lobe_test A=1.4
+1000,1.0,True,1.0,4,Rotational,1.5,True,1.0,True,1.0,1.0,HPI_drift_inversion_dynamic_lobe_test A=1.5
+1000,1.0,True,1.0,4,Rotational,1.6,True,1.0,True,1.0,1.0,HPI_drift_inversion_dynamic_lobe_test A=1.6
+1000,1.0,True,1.0,4,Rotational,1.7,True,1.0,True,1.0,1.0,HPI_drift_inversion_dynamic_lobe_test A=1.7
+1000,1.0,True,1.0,4,Rotational,1.8,True,1.0,True,1.0,1.0,HPI_drift_inversion_dynamic_lobe_test A=1.8
+1000,1.0,True,1.0,4,Rotational,1.9,True,1.0,True,1.0,1.0,HPI_drift_inversion_dynamic_lobe_test A=1.9
+1000,1.0,True,1.0,4,Rotational,2.0,True,1.0,True,1.0,1.0,HPI_drift_inversion_dynamic_lobe_test A=2.0

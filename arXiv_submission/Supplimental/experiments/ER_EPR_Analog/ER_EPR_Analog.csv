@@ -1,0 +1,2 @@
+Dynamic_Symmetry_Strength,Dynamic_Field_Strength,Spread_Width,Num_Pucks,Bias_ON,Bias_Strength,Num_Lobes,Symmetry_Type,Symmetry_Strength,Dynamic_Lobes,Field_Force_Profile,Dynamic_Field,Field_Strength,Experiment_Notes
+0.0,0.0,0.4,10000,False,0.0,6,Mirrored,0.8,False,None,False,0.0,ER=EPR_Analog: Mirrored substrates with paired symmetry to simulate entanglement-like correlation

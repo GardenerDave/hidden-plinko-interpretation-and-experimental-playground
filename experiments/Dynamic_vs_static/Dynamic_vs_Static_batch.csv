@@ -1,0 +1,5 @@
+Num_Pucks,Spread_Width,Bias_ON,Bias_Strength,Num_Lobes,Symmetry_Type,Symmetry_Strength,Dynamic_Lobes,Field_Force_Profile,Dynamic_Field,Field_Strength,Dynamic_Field_Strength,Dynamic_Symmetry_Strength,Experiment_Notes
+1000,2.0,True,5.0,4,Rotational,0.5,False,Constant,False,0.2,0.0,0.0,"Control: Static symmetry, static field"
+1000,2.0,True,5.0,4,Rotational,0.5,True,Constant,False,0.2,0.0,0.15,Dynamic symmetry only
+1000,2.0,True,5.0,4,Rotational,0.5,False,Dynamic,True,0.2,0.1,0.0,Dynamic field only
+1000,2.0,True,5.0,4,Rotational,0.5,True,Dynamic,True,0.2,0.1,0.15,Fully dynamic: symmetry + field

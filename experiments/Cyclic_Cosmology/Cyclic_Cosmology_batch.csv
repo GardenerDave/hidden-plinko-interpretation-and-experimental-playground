@@ -1,0 +1,3 @@
+Dynamic_Symmetry_Strength,Dynamic_Field_Strength,Spread_Width,Num_Pucks,Bias_ON,Bias_Strength,Num_Lobes,Symmetry_Type,Symmetry_Strength,Dynamic_Lobes,Field_Force_Profile,Dynamic_Field,Field_Strength,Experiment_Notes
+0.1,0.05,2.0,500,True,1.0,3,Rotational,0.5,True,Dynamic,False,0.2,CC-1: Multiple resets to simulate cyclic aeons
+0.1,0.05,2.0,500,True,1.5,4,Mirror,0.5,True,Dynamic,True,0.2,CC-2: Simulate Penrose cycles with symmetry oscillation

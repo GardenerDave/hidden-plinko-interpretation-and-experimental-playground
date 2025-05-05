@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Hidden Plinko Interpretation: A Deterministic Substrate Model for Emergent Quantum Statistics"
+authors:
+  - family-names: Harvests
+    given-names: Gardener Dave
+    name: Bountiful Harvests, Gardener Dave
+    affiliation: Independent Researcher
+date-released: 2025-05-04
+version: "1.1.0"
+doi: 10.5281/zenodo.XXXXXXX
+repository-code: https://github.com/GardenerDave/hidden-plinko
+license: CC-BY-4.0
+keywords:
+  - quantum interpretation
+  - deterministic model
+  - emergent behavior
+  - entropy
+  - Hidden Plinko

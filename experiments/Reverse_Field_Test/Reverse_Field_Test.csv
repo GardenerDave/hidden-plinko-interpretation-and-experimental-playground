@@ -1,0 +1,2 @@
+Dynamic_Symmetry_Strength,Dynamic_Field_Strength,Spread_Width,Num_Pucks,Bias_ON,Bias_Strength,Num_Lobes,Symmetry_Type,Symmetry_Strength,Dynamic_Lobes,Field_Force_Profile,Dynamic_Field,Field_Strength,Experiment_Notes
+0.0,0.6,0.3,10000,True,-0.8,4,Elliptical,0.4,False,Dynamic,True,0.0,Reverse_Field_Test: High-entropy core repels puck flow (simulated firewall or decay)

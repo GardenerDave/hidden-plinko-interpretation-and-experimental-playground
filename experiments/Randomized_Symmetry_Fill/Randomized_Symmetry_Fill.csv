@@ -1,0 +1,5 @@
+Num_Pucks,Spread_Width,Bias_ON,Bias_Strength,Num_Lobes,Symmetry_Type,Symmetry_Strength,Dynamic_Lobes,Field_Force_Profile,Dynamic_Field,Field_Strength,Dynamic_Field_Strength,Dynamic_Symmetry_Strength,Experiment_Notes
+1000,2.0,True,5,3,Randomized,0.5,False,Constant,False,0.0,0.0,0.0,"Rand-1: Bias ON, 3 Lobes"
+1000,2.0,False,5,3,Randomized,0.5,False,Constant,False,0.0,0.0,0.0,"Rand-2: Bias OFF, 3 Lobes"
+1000,2.0,True,5,5,Randomized,0.5,False,Constant,False,0.0,0.0,0.0,"Rand-3: Bias ON, 5 Lobes"
+1000,2.0,False,5,5,Randomized,0.5,False,Constant,False,0.0,0.0,0.0,"Rand-4: Bias OFF, 5 Lobes"

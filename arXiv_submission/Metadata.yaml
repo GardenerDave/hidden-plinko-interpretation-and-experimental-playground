@@ -1,0 +1,26 @@
+title: Hidden Plinko Interpretation: A Deterministic Substrate Model for Emergent Quantum Statistics
+
+authors:
+  - Gardener Dave
+
+abstract: >
+  This paper presents a computational framework in which quantum-like statistical behaviors emerge from
+  deterministic substrate dynamics. By simulating the evolution of a hidden-variable medium under internal
+  symmetry constraints and external field modulation, we recover key features of quantum mechanics including
+  interference, collapse analogs, and entropic asymmetries. Sixteen structured experiments explore bifurcations,
+  decoherence-like processes, and holographic boundary behaviors. The framework, called the Hidden Plinko
+  Interpretation, provides a testable pathway for modeling emergent quantum statistics without fundamental
+  indeterminism.
+
+categories:
+  - quant-ph
+  - hep-th
+  - cond-mat.stat-mech
+
+comments: 35 pages, 16 experiments, supplementary code and data included
+
+license: CC BY-NC 4.0
+
+report-no: HPI-2025
+
+msc-class: 81P05, 82C10, 37B25

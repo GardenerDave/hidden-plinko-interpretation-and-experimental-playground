@@ -1,0 +1,4 @@
+Num_Pucks,Spread_Width,Bias_ON,Bias_Strength,Num_Lobes,Symmetry_Type,Symmetry_Strength,Dynamic_Lobes,Field_Strength,Dynamic_Field,Dynamic_Field_Strength,Dynamic_Symmetry_Strength,Experiment_Notes
+1000,2.0,True,5.0,12,Rotational,0.5,False,0.0,False,0.0,0.0,High-res rotational symmetry
+1000,2.0,True,5.0,12,Elliptical,0.5,False,0.0,False,0.0,0.0,High-res elliptical symmetry
+1000,2.0,True,5.0,12,Spoked,0.5,False,0.0,False,0.0,0.0,High-res spoked symmetry

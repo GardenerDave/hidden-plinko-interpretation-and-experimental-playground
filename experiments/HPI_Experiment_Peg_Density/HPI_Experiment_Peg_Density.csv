@@ -1,0 +1,4 @@
+Num_Pucks,Spread_Width,Bias_ON,Bias_Strength,Num_Lobes,Symmetry_Type,Symmetry_Strength,Dynamic_Lobes,Field_Strength,Dynamic_Field,Dynamic_Field_Strength,Dynamic_Symmetry_Strength,Experiment_Notes
+1000,2.0,True,5.0,6,Rotational,0.5,False,0.0,False,0.0,0.0,Default peg spacing (baseline)
+1000,2.0,True,5.0,5,Rotational,0.5,False,0.0,False,0.0,0.0,Higher lobe count without changing spacing
+1000,2.0,True,5.0,6,Rotational,0.4,True,0.0,False,0.0,0.0,Implied denser pegs via dynamic lobes + symmetry

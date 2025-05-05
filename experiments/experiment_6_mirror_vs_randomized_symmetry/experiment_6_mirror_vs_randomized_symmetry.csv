@@ -1,0 +1,3 @@
+Num_Pucks,Spread_Width,Bias_ON,Bias_Strength,Num_Lobes,Symmetry_Type,Symmetry_Strength,Dynamic_Lobes,Field_Strength,Dynamic_Field,Dynamic_Field_Strength,Dynamic_Symmetry_Strength,Experiment_Notes
+1000,2.0,False,0.0,6,Mirror,0.6,False,0.0,False,0.0,0.0,"Exp6-Control: Mirror symmetry, no field"
+1000,2.0,False,0.0,6,Randomized,0.6,False,0.0,False,0.0,0.0,Exp6-Test: Randomized symmetry pattern
