@@ -1,0 +1,13 @@
+Num_Pucks,Spread_Width,Bias_ON,Bias_Strength,Num_Lobes,Symmetry_Type,Symmetry_Strength,Dynamic_Lobes,Field_Strength,Dynamic_Field,Dynamic_Field_Strength,Dynamic_Symmetry_Strength,Experiment_Notes
+500,2.0,False,0.0,0,Elliptical,0.9,True,0.05,True,0.1,0.0,Harmonic Mode Sweep: Exploring resonant structure through increasing lobe count
+500,2.0,False,0.0,1,Elliptical,0.9,True,0.05,True,0.1,0.0,Harmonic Mode Sweep: Exploring resonant structure through increasing lobe count
+500,2.0,False,0.0,2,Elliptical,0.9,True,0.05,True,0.1,0.0,Harmonic Mode Sweep: Exploring resonant structure through increasing lobe count
+500,2.0,False,0.0,3,Elliptical,0.9,True,0.05,True,0.1,0.0,Harmonic Mode Sweep: Exploring resonant structure through increasing lobe count
+500,2.0,False,0.0,4,Elliptical,0.9,True,0.05,True,0.1,0.0,Harmonic Mode Sweep: Exploring resonant structure through increasing lobe count
+500,2.0,False,0.0,5,Elliptical,0.9,True,0.05,True,0.1,0.0,Harmonic Mode Sweep: Exploring resonant structure through increasing lobe count
+500,2.0,False,0.0,6,Elliptical,0.9,True,0.05,True,0.1,0.0,Harmonic Mode Sweep: Exploring resonant structure through increasing lobe count
+500,2.0,False,0.0,7,Elliptical,0.9,True,0.05,True,0.1,0.0,Harmonic Mode Sweep: Exploring resonant structure through increasing lobe count
+500,2.0,False,0.0,8,Elliptical,0.9,True,0.05,True,0.1,0.0,Harmonic Mode Sweep: Exploring resonant structure through increasing lobe count
+500,2.0,False,0.0,9,Elliptical,0.9,True,0.05,True,0.1,0.0,Harmonic Mode Sweep: Exploring resonant structure through increasing lobe count
+500,2.0,False,0.0,10,Elliptical,0.9,True,0.05,True,0.1,0.0,Harmonic Mode Sweep: Exploring resonant structure through increasing lobe count
+500,2.0,False,0.0,11,Elliptical,0.9,True,0.05,True,0.1,0.0,Harmonic Mode Sweep: Exploring resonant structure through increasing lobe count

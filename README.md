@@ -2,7 +2,7 @@
 
 Inspired by the classical Galton board and the [Plinko game on Wikipedia](https://en.wikipedia.org/wiki/Plinko_(pricing_game)), popularized by [The Price Is Right](https://priceisright.fandom.com/wiki/Plinko/Gallery).
 
-📄 [Read the formal paper](Hidden_Plinko_Interpretation.pdf)
+📄 [Read the formal paper](Hidden_Plinko_Interpretation_v1.1.pdf)
 # Hidden Plinko Interpretation and Experimental Playground
 
 **Created by: Gardener Dave**  
@@ -104,3 +104,14 @@ If you use this work, please cite:
 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.  
 You are free to share and adapt the material for non-commercial purposes, as long as appropriate credit is given.
 
+
+
+---
+
+## Version 1.1 Update Highlights
+
+- Added entropy analysis and tipping point experiments
+- Explored harmonic structures and collapse bifurcations
+- Integrated 1000+ experimental outputs and summaries
+- Updated manuscript and reorganized exports
+- Prepared GitHub-ready structure with Zenodo metadata
