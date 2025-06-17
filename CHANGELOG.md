@@ -1,6 +1,23 @@
 # Hidden Plinko Interpretation - Changelog
 
 All notable changes to this project are documented in this file.
+## [v1.1.1] - 2025-06-16
+### Added
+- Section 4.6.2: Introduced Informational Torsion as a smooth, rotational deformation mode in the informational substrate
+- Section 4.10: Developed the Interface Manifold framework with tomographic projection of interference patterns
+- README.md: Fully rewritten to reflect theoretical and experimental progress in v1.1, including:
+- New project summary and install instructions
+- Summary of theory updates and simulation architecture
+- Embedded paper link and citation guidance
+- RELEASE_NOTES folder added
+- RELEASE_NOTES_v1.1.1.md created to document updates
+
+### Changed
+- Manuscript finalized with torsion and manifold additions for public release
+- README clarified and aligned with experimental and theoretical advances
+- CHANGELOG.md: This versioned changelog file updated for transparent development history
+- RELEASE_NOTES_v1.1.md moved to RELEASE_NOTES folder
+
 
 ## [v1.1] - 2025-05-07
 ### Added
