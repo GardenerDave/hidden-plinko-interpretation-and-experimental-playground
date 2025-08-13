@@ -1,3 +1,8 @@
+# =============================================================================
+# NOTE: Placeholder / toy model for development
+# This script is for verifying the Λ(x,t) experiment pipeline (CLI, exports, plotting).
+# Replace `simulate_echo` internals with actual Λ(x,t) simulation logic for publication.
+# =============================================================================
 import argparse
 import csv
 import os
@@ -45,7 +50,7 @@ def main():
     fig_dir.mkdir(parents=True, exist_ok=True)
 
     # Write CSV
-    csv_path = out_dir / "echo_delta_vs_M.csv"
+    csv_path = out_dir / f"echo_delta_vs_M{args.M:.3f}.csv"
     with open(csv_path, "w", newline="") as f:
         writer = csv.writer(f)
         writer.writerow(["M", "delta_L", "N", "beta", "omega"])
@@ -59,7 +64,7 @@ def main():
     plt.ylabel("ΔL (AB - BA)")
     plt.title(f"Echo Asymmetry vs M [{args.kernel}]")
     plt.grid(True)
-    fig_path = fig_dir / "echo_delta_vs_M.png"
+    fig_path = fig_dir / f"echo_delta_vs_M{args.M:.3f}.png"
     plt.savefig(fig_path, dpi=150)
     plt.close()
 
